@@ -1,0 +1,2513 @@
+title: Birth by Sleep Ultimate Mix
+originalAuthor: Keytotruth
+description: Mod by Keytotruth -- OpenKH compatibility added by Vladabdf
+dependencies: 
+assets:
+- name: remastered/arc_it/pc/p00common.arc/IT_p00common_arc7.png
+  method: copy
+  source:
+  - name: remastered/arc_it/pc/p00common.arc/IT_p00common_arc7.png
+- name: remastered/arc_en/pc/p00common.arc/US_p00common_arc6.png
+  method: copy
+  source:
+  - name: remastered/arc_en/pc/p00common.arc/US_p00common_arc6.png
+- name: remastered/arc_es/menu/title_txt.arc/SP_title_txt_arc10.png
+  method: copy
+  source:
+  - name: remastered/arc_es/menu/title_txt.arc/SP_title_txt_arc10.png
+- name: remastered/arc_es/pc/p00common.arc/SP_p00common_arc0.png
+  method: copy
+  source:
+  - name: remastered/arc_es/pc/p00common.arc/SP_p00common_arc0.png
+- name: remastered/arc_es/pc/p00common.arc/SP_p00common_arc3.png
+  method: copy
+  source:
+  - name: remastered/arc_es/pc/p00common.arc/SP_p00common_arc3.png
+- name: remastered/arc_es/pc/p00common.arc/SP_p00common_arc6.png
+  method: copy
+  source:
+  - name: remastered/arc_es/pc/p00common.arc/SP_p00common_arc6.png
+- name: remastered/arc_fr/menu/title_txt.arc/FR_title_txt_arc10.png
+  method: copy
+  source:
+  - name: remastered/arc_fr/menu/title_txt.arc/FR_title_txt_arc10.png
+- name: remastered/arc_fr/pc/p00common.arc/FR_p00common_arc0.png
+  method: copy
+  source:
+  - name: remastered/arc_fr/pc/p00common.arc/FR_p00common_arc0.png
+- name: remastered/arc_fr/pc/p00common.arc/FR_p00common_arc1.png
+  method: copy
+  source:
+  - name: remastered/arc_fr/pc/p00common.arc/FR_p00common_arc1.png
+- name: remastered/arc_fr/pc/p00common.arc/FR_p00common_arc6.png
+  method: copy
+  source:
+  - name: remastered/arc_fr/pc/p00common.arc/FR_p00common_arc6.png
+- name: remastered/arc_it/menu/title_txt.arc/IT_title_txt_arc10.png
+  method: copy
+  source:
+  - name: remastered/arc_it/menu/title_txt.arc/IT_title_txt_arc10.png
+- name: remastered/arc_it/pc/p00common.arc/IT_p00common_arc0.png
+  method: copy
+  source:
+  - name: remastered/arc_it/pc/p00common.arc/IT_p00common_arc0.png
+- name: remastered/arc_it/pc/p00common.arc/IT_p00common_arc2.png
+  method: copy
+  source:
+  - name: remastered/arc_it/pc/p00common.arc/IT_p00common_arc2.png
+- name: remastered/arc/system/common_pp.arc/JP_common_pp_arc1.png
+  method: copy
+  source:
+  - name: remastered/arc/system/common_pp.arc/JP_common_pp_arc1.png
+- name: remastered/arc/system/common_rg.arc/JP_common_rg_arc0.dds
+  method: copy
+  source:
+  - name: remastered/arc/system/common_rg.arc/JP_common_rg_arc0.dds
+- name: remastered/arc/system/common_sb.arc/JP_common_sb_arc1.dds
+  method: copy
+  source:
+  - name: remastered/arc/system/common_sb.arc/JP_common_sb_arc1.dds
+- name: remastered/arc/system/common_sb.arc/JP_common_sb_arc1.png
+  method: copy
+  source:
+  - name: remastered/arc/system/common_sb.arc/JP_common_sb_arc1.png
+- name: remastered/arc/system/common_sw.arc/JP_common_sw_arc0.dds
+  method: copy
+  source:
+  - name: remastered/arc/system/common_sw.arc/JP_common_sw_arc0.dds
+- name: remastered/arc_de/menu/title_txt.arc/GR_title_txt_arc10.png
+  method: copy
+  source:
+  - name: remastered/arc_de/menu/title_txt.arc/GR_title_txt_arc10.png
+- name: remastered/arc_de/pc/p00common.arc/GR_p00common_arc0.png
+  method: copy
+  source:
+  - name: remastered/arc_de/pc/p00common.arc/GR_p00common_arc0.png
+- name: remastered/arc_de/pc/p00common.arc/GR_p00common_arc1.png
+  method: copy
+  source:
+  - name: remastered/arc_de/pc/p00common.arc/GR_p00common_arc1.png
+- name: remastered/arc_de/pc/p00common.arc/GR_p00common_arc4.png
+  method: copy
+  source:
+  - name: remastered/arc_de/pc/p00common.arc/GR_p00common_arc4.png
+- name: remastered/arc_en/menu/d_link_10.arc/US_d_link_10_arc0.png
+  method: copy
+  source:
+  - name: remastered/arc_en/menu/d_link_10.arc/US_d_link_10_arc0.png
+- name: remastered/arc_en/menu/title_txt.arc/US_title_txt_arc10.png
+  method: copy
+  source:
+  - name: remastered/arc_en/menu/title_txt.arc/US_title_txt_arc10.png
+- name: remastered/arc_en/pc/p00common.arc/US_p00common_arc3.png
+  method: copy
+  source:
+  - name: remastered/arc_en/pc/p00common.arc/US_p00common_arc3.png
+- name: remastered/arc_en/pc/p00common.arc/US_p00common_arc5.png
+  method: copy
+  source:
+  - name: remastered/arc_en/pc/p00common.arc/US_p00common_arc5.png
+- name: sound/win/bgm/220data7.win32.scd
+  method: copy
+  source:
+  - name: sound/win/bgm/220data7.win32.scd
+- name: chara/weapon/w12ve/00/w12ve00.pmo
+  method: copy
+  source:
+  - name: chara/weapon/w12ve/00/w12ve00.pmo
+- name: chara/weapon/w12ve/01/w12ve01.pmo
+  method: copy
+  source:
+  - name: chara/weapon/w12ve/01/w12ve01.pmo
+- name: chara/weapon/w12ve/0s/w12ve0s.pmo
+  method: copy
+  source:
+  - name: chara/weapon/w12ve/0s/w12ve0s.pmo
+- name: chara/weapon/w12ve/10/w12ve10.pmo
+  method: copy
+  source:
+  - name: chara/weapon/w12ve/10/w12ve10.pmo
+- name: chara/weapon/w12ve/11/w12ve11.pmo
+  method: copy
+  source:
+  - name: chara/weapon/w12ve/11/w12ve11.pmo
+- name: remastered/arc/menu/d_link_12.arc/JP_d_link_12_arc0.png
+  method: copy
+  source:
+  - name: remastered/arc/menu/d_link_12.arc/JP_d_link_12_arc0.png
+- name: remastered/arc/menu/title_txt.arc/JP_title_txt_arc10.png
+  method: copy
+  source:
+  - name: remastered/arc/menu/title_txt.arc/JP_title_txt_arc10.png
+- name: remastered/arc/system/common_cd.arc/JP_common_cd_arc0.dds
+  method: copy
+  source:
+  - name: remastered/arc/system/common_cd.arc/JP_common_cd_arc0.dds
+- name: remastered/arc/system/common_dc.arc/JP_common_dc_arc0.dds
+  method: copy
+  source:
+  - name: remastered/arc/system/common_dc.arc/JP_common_dc_arc0.dds
+- name: remastered/arc/system/common_he.arc/JP_common_he_arc1.dds
+  method: copy
+  source:
+  - name: remastered/arc/system/common_he.arc/JP_common_he_arc1.dds
+- name: remastered/arc/system/common_ls.arc/JP_common_ls_arc1.dds
+  method: copy
+  source:
+  - name: remastered/arc/system/common_ls.arc/JP_common_ls_arc1.dds
+- name: remastered/arc/system/common_pp.arc/JP_common_pp_arc1.dds
+  method: copy
+  source:
+  - name: remastered/arc/system/common_pp.arc/JP_common_pp_arc1.dds
+- name: mission/jb/ms905/jb03_ms905s.exa
+  method: copy
+  source:
+  - name: mission/jb/ms905/jb03_ms905s.exa
+- name: mission/jb/ms906/jb03_ms100e.exa
+  method: copy
+  source:
+  - name: mission/jb/ms906/jb03_ms100e.exa
+- name: mission/jb/ms906/jb03_ms906s.exa
+  method: copy
+  source:
+  - name: mission/jb/ms906/jb03_ms906s.exa
+- name: mission/jb/ms907/jb03_ms100e.exa
+  method: copy
+  source:
+  - name: mission/jb/ms907/jb03_ms100e.exa
+- name: mission/jb/ms907/jb03_ms907s.exa
+  method: copy
+  source:
+  - name: mission/jb/ms907/jb03_ms907s.exa
+- name: sound/win/bgm/036seisin.win32.scd
+  method: copy
+  source:
+  - name: sound/win/bgm/036seisin.win32.scd
+- name: sound/win/bgm/210fate.win32.scd
+  method: copy
+  source:
+  - name: sound/win/bgm/210fate.win32.scd
+- name: sound/win/bgm/214data1.win32.scd
+  method: copy
+  source:
+  - name: sound/win/bgm/214data1.win32.scd
+- name: sound/win/bgm/215data2.win32.scd
+  method: copy
+  source:
+  - name: sound/win/bgm/215data2.win32.scd
+- name: sound/win/bgm/216data3.win32.scd
+  method: copy
+  source:
+  - name: sound/win/bgm/216data3.win32.scd
+- name: sound/win/bgm/217data4.win32.scd
+  method: copy
+  source:
+  - name: sound/win/bgm/217data4.win32.scd
+- name: sound/win/bgm/218data5.win32.scd
+  method: copy
+  source:
+  - name: sound/win/bgm/218data5.win32.scd
+- name: sound/win/bgm/219data6.win32.scd
+  method: copy
+  source:
+  - name: sound/win/bgm/219data6.win32.scd
+- name: message/fr/system/CTih000.ctd
+  method: copy
+  source:
+  - name: message/fr/system/CTih000.ctd
+- name: message/it/system/CT00000.ctd
+  method: copy
+  source:
+  - name: message/it/system/CT00000.ctd
+- name: message/it/system/CTih000.ctd
+  method: copy
+  source:
+  - name: message/it/system/CTih000.ctd
+- name: mission/jb/ms901/ex00_ms100e.exa
+  method: copy
+  source:
+  - name: mission/jb/ms901/ex00_ms100e.exa
+- name: mission/jb/ms901/jb03_ms100e.exa
+  method: copy
+  source:
+  - name: mission/jb/ms901/jb03_ms100e.exa
+- name: mission/jb/ms901/jb03_ms901s.exa
+  method: copy
+  source:
+  - name: mission/jb/ms901/jb03_ms901s.exa
+- name: mission/jb/ms902/jb03_ms100e.exa
+  method: copy
+  source:
+  - name: mission/jb/ms902/jb03_ms100e.exa
+- name: mission/jb/ms902/jb03_ms902s.exa
+  method: copy
+  source:
+  - name: mission/jb/ms902/jb03_ms902s.exa
+- name: mission/jb/ms903/jb03_ms100e.exa
+  method: copy
+  source:
+  - name: mission/jb/ms903/jb03_ms100e.exa
+- name: mission/jb/ms903/jb03_ms903s.exa
+  method: copy
+  source:
+  - name: mission/jb/ms903/jb03_ms903s.exa
+- name: mission/jb/ms904/jb03_ms100e.exa
+  method: copy
+  source:
+  - name: mission/jb/ms904/jb03_ms100e.exa
+- name: mission/jb/ms904/jb03_ms904s.exa
+  method: copy
+  source:
+  - name: mission/jb/ms904/jb03_ms904s.exa
+- name: mission/jb/ms905/jb03_ms100e.exa
+  method: copy
+  source:
+  - name: mission/jb/ms905/jb03_ms100e.exa
+- name: arc/preset/ls/ls09ve.arc
+  method: copy
+  source:
+  - name: arc/preset/ls/ls09ve.arc
+- name: arc/preset/sb/sb12te.arc
+  method: copy
+  source:
+  - name: arc/preset/sb/sb12te.arc
+- name: event/en/kg/kg_352.exa
+  method: copy
+  source:
+  - name: event/en/kg/kg_352.exa
+- name: event/en/kg/kg_451.exa
+  method: copy
+  source:
+  - name: event/en/kg/kg_451.exa
+- name: event/en/kg/kg_452.exa
+  method: copy
+  source:
+  - name: event/en/kg/kg_452.exa
+- name: event/en/kg/kg_454.exa
+  method: copy
+  source:
+  - name: event/en/kg/kg_454.exa
+- name: message/de/system/CT00000.ctd
+  method: copy
+  source:
+  - name: message/de/system/CT00000.ctd
+- name: message/de/system/CTih000.ctd
+  method: copy
+  source:
+  - name: message/de/system/CTih000.ctd
+- name: message/en/system/CT00000.ctd
+  method: copy
+  source:
+  - name: message/en/system/CT00000.ctd
+- name: message/en/system/CTih000.ctd
+  method: copy
+  source:
+  - name: message/en/system/CTih000.ctd
+- name: message/es/system/CT00000.ctd
+  method: copy
+  source:
+  - name: message/es/system/CT00000.ctd
+- name: message/es/system/CTih000.ctd
+  method: copy
+  source:
+  - name: message/es/system/CTih000.ctd
+- name: message/fr/system/CT00000.ctd
+  method: copy
+  source:
+  - name: message/fr/system/CT00000.ctd
+- name: arc/preset/jb/jb02ex.arc
+  method: copy
+  source:
+  - name: arc/preset/jb/jb02ex.arc
+- name: arc/preset/jb/jb03ex.arc
+  method: copy
+  source:
+  - name: arc/preset/jb/jb03ex.arc
+- name: arc/preset/jb/jb04ex.arc
+  method: copy
+  source:
+  - name: arc/preset/jb/jb04ex.arc
+- name: arc/preset/jb/jb05ex.arc
+  method: copy
+  source:
+  - name: arc/preset/jb/jb05ex.arc
+- name: arc/preset/jb/jb06ex.arc
+  method: copy
+  source:
+  - name: arc/preset/jb/jb06ex.arc
+- name: arc/preset/jb/jb07ex.arc
+  method: copy
+  source:
+  - name: arc/preset/jb/jb07ex.arc
+- name: arc/preset/jb/jb08ex.arc
+  method: copy
+  source:
+  - name: arc/preset/jb/jb08ex.arc
+- name: arc/preset/kg/kg03ex.arc
+  method: copy
+  source:
+  - name: arc/preset/kg/kg03ex.arc
+- name: arc/preset/kg/kg07ex.arc
+  method: copy
+  source:
+  - name: arc/preset/kg/kg07ex.arc
+- name: arc/preset/kg/kg56aq.arc
+  method: copy
+  source:
+  - name: arc/preset/kg/kg56aq.arc
+- name: arc/preset/kg/kg56te.arc
+  method: copy
+  source:
+  - name: arc/preset/kg/kg56te.arc
+- name: arc/preset/kg/kg56ve.arc
+  method: copy
+  source:
+  - name: arc/preset/kg/kg56ve.arc
+- name: arc/preset/kg/kg99ex.arc
+  method: copy
+  source:
+  - name: arc/preset/kg/kg99ex.arc
+- name: arc/preset/dp/dp09aq.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp09aq.arc
+- name: arc/preset/dp/dp11aq.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp11aq.arc
+- name: arc/preset/dp/dp12aq.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp12aq.arc
+- name: arc/preset/dp/dp14ex.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp14ex.arc
+- name: arc/preset/dp/dp15aq.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp15aq.arc
+- name: arc/preset/dp/dp15ex.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp15ex.arc
+- name: arc/preset/dp/dp15te.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp15te.arc
+- name: arc/preset/dp/dp15ve.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp15ve.arc
+- name: arc/preset/dp/dp16aq.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp16aq.arc
+- name: arc/preset/dp/dp16ex.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp16ex.arc
+- name: arc/preset/dp/dp16te.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp16te.arc
+- name: arc/preset/dp/dp16ve.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp16ve.arc
+- name: arc/preset/jb/jb01ex.arc
+  method: copy
+  source:
+  - name: arc/preset/jb/jb01ex.arc
+- name: arc/preset/dp/dp02aq.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp02aq.arc
+- name: arc/preset/dp/dp02te.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp02te.arc
+- name: arc/preset/dp/dp02ve.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp02ve.arc
+- name: arc/preset/dp/dp03aq.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp03aq.arc
+- name: arc/preset/dp/dp03ve.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp03ve.arc
+- name: arc/preset/dp/dp05aq.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp05aq.arc
+- name: arc/preset/dp/dp05te.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp05te.arc
+- name: arc/preset/dp/dp06aq.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp06aq.arc
+- name: arc/preset/dp/dp06te.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp06te.arc
+- name: arc/preset/dp/dp07aq.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp07aq.arc
+- name: arc/preset/dp/dp07te.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp07te.arc
+- name: arc/preset/dp/dp08aq.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp08aq.arc
+- name: arc/preset/dp/dp08te.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp08te.arc
+- name: arc/system/common_te.arc
+  method: copy
+  source:
+  - name: arc/system/common_te.arc
+- name: arc/system/common_ve.arc
+  method: copy
+  source:
+  - name: arc/system/common_ve.arc
+- name: arc/system/common_vs.arc
+  method: copy
+  source:
+  - name: arc/system/common_vs.arc
+- name: arc/system/common_wm.arc
+  method: copy
+  source:
+  - name: arc/system/common_wm.arc
+- name: arc/system/common_yt.arc
+  method: copy
+  source:
+  - name: arc/system/common_yt.arc
+- name: arc/weapon/w08ve00.arc
+  method: copy
+  source:
+  - name: arc/weapon/w08ve00.arc
+- name: arc/weapon/w12ve00.arc
+  method: copy
+  source:
+  - name: arc/weapon/w12ve00.arc
+- name: arc_en/pc/p00common.arc
+  method: copy
+  source:
+  - name: arc_en/pc/p00common.arc
+- name: minigame/MirageArena/MABonusData.mbd
+  method: copy
+  source:
+  - name: minigame/MirageArena/MABonusData.mbd
+- name: mission/jb/ex00_ms100e.exa
+  method: copy
+  source:
+  - name: mission/jb/ex00_ms100e.exa
+- name: arc/preset/dp/dp01aq.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp01aq.arc
+- name: arc/preset/dp/dp01te.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp01te.arc
+- name: arc/preset/dp/dp01ve.arc
+  method: copy
+  source:
+  - name: arc/preset/dp/dp01ve.arc
+- name: arc/system/common_cd.arc
+  method: copy
+  source:
+  - name: arc/system/common_cd.arc
+- name: arc/system/common_dc.arc
+  method: copy
+  source:
+  - name: arc/system/common_dc.arc
+- name: arc/system/common_di.arc
+  method: copy
+  source:
+  - name: arc/system/common_di.arc
+- name: arc/system/common_dp.arc
+  method: copy
+  source:
+  - name: arc/system/common_dp.arc
+- name: arc/system/common_ex.arc
+  method: copy
+  source:
+  - name: arc/system/common_ex.arc
+- name: arc/system/common_he.arc
+  method: copy
+  source:
+  - name: arc/system/common_he.arc
+- name: arc/system/common_jb.arc
+  method: copy
+  source:
+  - name: arc/system/common_jb.arc
+- name: arc/system/common_kg.arc
+  method: copy
+  source:
+  - name: arc/system/common_kg.arc
+- name: arc/system/common_ls.arc
+  method: copy
+  source:
+  - name: arc/system/common_ls.arc
+- name: arc/system/common_pp.arc
+  method: copy
+  source:
+  - name: arc/system/common_pp.arc
+- name: arc/system/common_rg.arc
+  method: copy
+  source:
+  - name: arc/system/common_rg.arc
+- name: arc/system/common_sb.arc
+  method: copy
+  source:
+  - name: arc/system/common_sb.arc
+- name: arc/system/common_sw.arc
+  method: copy
+  source:
+  - name: arc/system/common_sw.arc
+- name: arc/pc/p00common.arc
+  method: copy
+  source:
+  - name: arc/pc/p00common.arc
+- name: arc/pc/p01init.arc
+  method: copy
+  source:
+  - name: arc/pc/p01init.arc
+- name: arc/pc/p02init.arc
+  method: copy
+  source:
+  - name: arc/pc/p02init.arc
+- name: arc/pc/p03init.arc
+  method: copy
+  source:
+  - name: arc/pc/p03init.arc
+- name: arc/pc_aqua/shopMdlAq.arc
+  method: copy
+  source:
+  - name: arc/pc_aqua/shopMdlAq.arc
+- name: arc/pc_terra/shopMdlTe.arc
+  method: copy
+  source:
+  - name: arc/pc_terra/shopMdlTe.arc
+- name: arc/pc_ven/shopMdlVe.arc
+  method: copy
+  source:
+  - name: arc/pc_ven/shopMdlVe.arc
+- name: arc/preset/parag_aq.arc
+  method: copy
+  source:
+  - name: arc/preset/parag_aq.arc
+- name: arc/preset/parag_te.arc
+  method: copy
+  source:
+  - name: arc/preset/parag_te.arc
+- name: arc/preset/parag_ve.arc
+  method: copy
+  source:
+  - name: arc/preset/parag_ve.arc
+- name: arc/system/common.arc
+  method: copy
+  source:
+  - name: arc/system/common.arc
+- name: arc/system/commonGame.arc
+  method: copy
+  source:
+  - name: arc/system/commonGame.arc
+- name: arc/system/common_aq.arc
+  method: copy
+  source:
+  - name: arc/system/common_aq.arc
+- name: arc/map/jb06.arc
+  method: copy
+  source:
+  - name: arc/map/jb06.arc
+- name: arc/map/jb07.arc
+  method: copy
+  source:
+  - name: arc/map/jb07.arc
+- name: arc/map/jb08.arc
+  method: copy
+  source:
+  - name: arc/map/jb08.arc
+- name: arc/map/jb09.arc
+  method: copy
+  source:
+  - name: arc/map/jb09.arc
+- name: arc/map/jb10.arc
+  method: copy
+  source:
+  - name: arc/map/jb10.arc
+- name: arc/map/jb11.arc
+  method: copy
+  source:
+  - name: arc/map/jb11.arc
+- name: arc/map/jb12.arc
+  method: copy
+  source:
+  - name: arc/map/jb12.arc
+- name: arc/npc/n01ls00.arc
+  method: copy
+  source:
+  - name: arc/npc/n01ls00.arc
+- name: arc/npc/n01sw01.arc
+  method: copy
+  source:
+  - name: arc/npc/n01sw01.arc
+- name: arc/npc/n02cd01.arc
+  method: copy
+  source:
+  - name: arc/npc/n02cd01.arc
+- name: arc/npc/n03sb00.arc
+  method: copy
+  source:
+  - name: arc/npc/n03sb00.arc
+- name: arc/npc/n04ls00.arc
+  method: copy
+  source:
+  - name: arc/npc/n04ls00.arc
+- name: arc/npc/n04yt00.arc
+  method: copy
+  source:
+  - name: arc/npc/n04yt00.arc
+- name: arc/gimmick/g90kg00.arc
+  method: copy
+  source:
+  - name: arc/gimmick/g90kg00.arc
+- name: arc/gimmick/g91kg00.arc
+  method: copy
+  source:
+  - name: arc/gimmick/g91kg00.arc
+- name: arc/gimmick/g92kg00.arc
+  method: copy
+  source:
+  - name: arc/gimmick/g92kg00.arc
+- name: arc/gimmick/g93kg00.arc
+  method: copy
+  source:
+  - name: arc/gimmick/g93kg00.arc
+- name: arc/gimmick/g94kg00.arc
+  method: copy
+  source:
+  - name: arc/gimmick/g94kg00.arc
+- name: arc/gimmick/g95kg00.arc
+  method: copy
+  source:
+  - name: arc/gimmick/g95kg00.arc
+- name: arc/gimmick/g96kg00.arc
+  method: copy
+  source:
+  - name: arc/gimmick/g96kg00.arc
+- name: arc/gimmick/g99kg00.arc
+  method: copy
+  source:
+  - name: arc/gimmick/g99kg00.arc
+- name: arc/map/jb01.arc
+  method: copy
+  source:
+  - name: arc/map/jb01.arc
+- name: arc/map/jb02.arc
+  method: copy
+  source:
+  - name: arc/map/jb02.arc
+- name: arc/map/jb03.arc
+  method: copy
+  source:
+  - name: arc/map/jb03.arc
+- name: arc/map/jb04.arc
+  method: copy
+  source:
+  - name: arc/map/jb04.arc
+- name: arc/map/jb05.arc
+  method: copy
+  source:
+  - name: arc/map/jb05.arc
+- name: arc/etc/kg01MS102.arc
+  method: copy
+  source:
+  - name: arc/etc/kg01MS102.arc
+- name: arc/etc/kg10MS301.arc
+  method: copy
+  source:
+  - name: arc/etc/kg10MS301.arc
+- name: arc/etc/kg12MS202.arc
+  method: copy
+  source:
+  - name: arc/etc/kg12MS202.arc
+- name: arc/etc/ls01MS202.arc
+  method: copy
+  source:
+  - name: arc/etc/ls01MS202.arc
+- name: arc/etc/ls08MS103.arc
+  method: copy
+  source:
+  - name: arc/etc/ls08MS103.arc
+- name: arc/etc/ls09MS204.arc
+  method: copy
+  source:
+  - name: arc/etc/ls09MS204.arc
+- name: arc/etc/ls12MS102.arc
+  method: copy
+  source:
+  - name: arc/etc/ls12MS102.arc
+- name: arc/etc/ls13MS101.arc
+  method: copy
+  source:
+  - name: arc/etc/ls13MS101.arc
+- name: arc/etc/pp13MS302.arc
+  method: copy
+  source:
+  - name: arc/etc/pp13MS302.arc
+- name: arc/etc/rg10MS201.arc
+  method: copy
+  source:
+  - name: arc/etc/rg10MS201.arc
+- name: arc/etc/sb02MS202.arc
+  method: copy
+  source:
+  - name: arc/etc/sb02MS202.arc
+- name: arc/etc/sb02MS203.arc
+  method: copy
+  source:
+  - name: arc/etc/sb02MS203.arc
+- name: arc/etc/sw08MS103.arc
+  method: copy
+  source:
+  - name: arc/etc/sw08MS103.arc
+- name: arc/enemy/m57ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m57ex00.arc
+- name: arc/enemy/m58ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m58ex00.arc
+- name: arc/enemy/m59ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m59ex00.arc
+- name: arc/enemy/m60ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m60ex00.arc
+- name: arc/enemy/m_sm_sw.arc
+  method: copy
+  source:
+  - name: arc/enemy/m_sm_sw.arc
+- name: arc/etc/cd08MS302.arc
+  method: copy
+  source:
+  - name: arc/etc/cd08MS302.arc
+- name: arc/etc/cd08MS303.arc
+  method: copy
+  source:
+  - name: arc/etc/cd08MS303.arc
+- name: arc/etc/he01MS105.arc
+  method: copy
+  source:
+  - name: arc/etc/he01MS105.arc
+- name: arc/etc/he01MS201.arc
+  method: copy
+  source:
+  - name: arc/etc/he01MS201.arc
+- name: arc/etc/he03MS102.arc
+  method: copy
+  source:
+  - name: arc/etc/he03MS102.arc
+- name: arc/etc/he04MS302.arc
+  method: copy
+  source:
+  - name: arc/etc/he04MS302.arc
+- name: arc/etc/he05MS101.arc
+  method: copy
+  source:
+  - name: arc/etc/he05MS101.arc
+- name: arc/etc/kg01MS101.arc
+  method: copy
+  source:
+  - name: arc/etc/kg01MS101.arc
+- name: arc/enemy/m32vs02.arc
+  method: copy
+  source:
+  - name: arc/enemy/m32vs02.arc
+- name: arc/enemy/m40ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m40ex00.arc
+- name: arc/enemy/m41ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m41ex00.arc
+- name: arc/enemy/m42ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m42ex00.arc
+- name: arc/enemy/m50ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m50ex00.arc
+- name: arc/enemy/m51ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m51ex00.arc
+- name: arc/enemy/m51vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m51vs00.arc
+- name: arc/enemy/m52ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m52ex00.arc
+- name: arc/enemy/m52vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m52vs00.arc
+- name: arc/enemy/m53ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m53ex00.arc
+- name: arc/enemy/m54ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m54ex00.arc
+- name: arc/enemy/m55ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m55ex00.arc
+- name: arc/enemy/m56ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m56ex00.arc
+- name: arc/enemy/m30ex00d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m30ex00d.arc
+- name: arc/enemy/m32ex.arc
+  method: copy
+  source:
+  - name: arc/enemy/m32ex.arc
+- name: arc/enemy/m32ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m32ex00.arc
+- name: arc/enemy/m32ex00d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m32ex00d.arc
+- name: arc/enemy/m32ex01.arc
+  method: copy
+  source:
+  - name: arc/enemy/m32ex01.arc
+- name: arc/enemy/m32ex01d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m32ex01d.arc
+- name: arc/enemy/m32ex02.arc
+  method: copy
+  source:
+  - name: arc/enemy/m32ex02.arc
+- name: arc/enemy/m32ex02d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m32ex02d.arc
+- name: arc/enemy/m32ex03.arc
+  method: copy
+  source:
+  - name: arc/enemy/m32ex03.arc
+- name: arc/enemy/m32ex03d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m32ex03d.arc
+- name: arc/enemy/m32ex04.arc
+  method: copy
+  source:
+  - name: arc/enemy/m32ex04.arc
+- name: arc/enemy/m32vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m32vs00.arc
+- name: arc/enemy/m32vs01.arc
+  method: copy
+  source:
+  - name: arc/enemy/m32vs01.arc
+- name: arc/enemy/m22vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m22vs00.arc
+- name: arc/enemy/m23ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m23ex00.arc
+- name: arc/enemy/m23vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m23vs00.arc
+- name: arc/enemy/m24ex.arc
+  method: copy
+  source:
+  - name: arc/enemy/m24ex.arc
+- name: arc/enemy/m24ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m24ex00.arc
+- name: arc/enemy/m24ex01.arc
+  method: copy
+  source:
+  - name: arc/enemy/m24ex01.arc
+- name: arc/enemy/m24ex02.arc
+  method: copy
+  source:
+  - name: arc/enemy/m24ex02.arc
+- name: arc/enemy/m25ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m25ex00.arc
+- name: arc/enemy/m25ex00d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m25ex00d.arc
+- name: arc/enemy/m25vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m25vs00.arc
+- name: arc/enemy/m26ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m26ex00.arc
+- name: arc/enemy/m27ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m27ex00.arc
+- name: arc/enemy/m28ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m28ex00.arc
+- name: arc/enemy/m17ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m17ex00.arc
+- name: arc/enemy/m17vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m17vs00.arc
+- name: arc/enemy/m18ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m18ex00.arc
+- name: arc/enemy/m18vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m18vs00.arc
+- name: arc/enemy/m19ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m19ex00.arc
+- name: arc/enemy/m19vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m19vs00.arc
+- name: arc/enemy/m20ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m20ex00.arc
+- name: arc/enemy/m20ex00d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m20ex00d.arc
+- name: arc/enemy/m20vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m20vs00.arc
+- name: arc/enemy/m21ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m21ex00.arc
+- name: arc/enemy/m21vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m21vs00.arc
+- name: arc/enemy/m22ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m22ex00.arc
+- name: arc/enemy/m22ex00d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m22ex00d.arc
+- name: arc/enemy/m10vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m10vs00.arc
+- name: arc/enemy/m11ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m11ex00.arc
+- name: arc/enemy/m12ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m12ex00.arc
+- name: arc/enemy/m12vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m12vs00.arc
+- name: arc/enemy/m13ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m13ex00.arc
+- name: arc/enemy/m13vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m13vs00.arc
+- name: arc/enemy/m14ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m14ex00.arc
+- name: arc/enemy/m14ex00d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m14ex00d.arc
+- name: arc/enemy/m14vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m14vs00.arc
+- name: arc/enemy/m15ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m15ex00.arc
+- name: arc/enemy/m15vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m15vs00.arc
+- name: arc/enemy/m16ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m16ex00.arc
+- name: arc/enemy/m16vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m16vs00.arc
+- name: arc/enemy/m06vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m06vs00.arc
+- name: arc/enemy/m07dc00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m07dc00.arc
+- name: arc/enemy/m07ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m07ex00.arc
+- name: arc/enemy/m07ex00d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m07ex00d.arc
+- name: arc/enemy/m07sw00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m07sw00.arc
+- name: arc/enemy/m07vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m07vs00.arc
+- name: arc/enemy/m08ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m08ex00.arc
+- name: arc/enemy/m08vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m08vs00.arc
+- name: arc/enemy/m09ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m09ex00.arc
+- name: arc/enemy/m09ex00d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m09ex00d.arc
+- name: arc/enemy/m09vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m09vs00.arc
+- name: arc/enemy/m10ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m10ex00.arc
+- name: arc/enemy/m10sb00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m10sb00.arc
+- name: arc/enemy/m03sw20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m03sw20d.arc
+- name: arc/enemy/m03vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m03vs00.arc
+- name: arc/enemy/m03yt20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m03yt20.arc
+- name: arc/enemy/m03yt20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m03yt20d.arc
+- name: arc/enemy/m04ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m04ex00.arc
+- name: arc/enemy/m04sw00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m04sw00.arc
+- name: arc/enemy/m04vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m04vs00.arc
+- name: arc/enemy/m05ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m05ex00.arc
+- name: arc/enemy/m05ex00d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m05ex00d.arc
+- name: arc/enemy/m05sw00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m05sw00.arc
+- name: arc/enemy/m05vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m05vs00.arc
+- name: arc/enemy/m06ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m06ex00.arc
+- name: arc/enemy/m06sw00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m06sw00.arc
+- name: arc/enemy/m03he20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m03he20d.arc
+- name: arc/enemy/m03ls20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m03ls20.arc
+- name: arc/enemy/m03ls20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m03ls20d.arc
+- name: arc/enemy/m03pp20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m03pp20.arc
+- name: arc/enemy/m03pp20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m03pp20d.arc
+- name: arc/enemy/m03rg20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m03rg20.arc
+- name: arc/enemy/m03rg20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m03rg20d.arc
+- name: arc/enemy/m03sb00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m03sb00.arc
+- name: arc/enemy/m03sb00d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m03sb00d.arc
+- name: arc/enemy/m03sb20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m03sb20.arc
+- name: arc/enemy/m03sb20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m03sb20d.arc
+- name: arc/enemy/m03sw00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m03sw00.arc
+- name: arc/enemy/m03sw20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m03sw20.arc
+- name: arc/enemy/m02sw20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m02sw20.arc
+- name: arc/enemy/m02sw20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m02sw20d.arc
+- name: arc/enemy/m02vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m02vs00.arc
+- name: arc/enemy/m02yt20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m02yt20.arc
+- name: arc/enemy/m02yt20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m02yt20d.arc
+- name: arc/enemy/m03cd20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m03cd20.arc
+- name: arc/enemy/m03cd20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m03cd20d.arc
+- name: arc/enemy/m03dc00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m03dc00.arc
+- name: arc/enemy/m03dc20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m03dc20.arc
+- name: arc/enemy/m03dc20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m03dc20d.arc
+- name: arc/enemy/m03ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m03ex00.arc
+- name: arc/enemy/m03ex00d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m03ex00d.arc
+- name: arc/enemy/m03he20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m03he20.arc
+- name: arc/enemy/m02he20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m02he20.arc
+- name: arc/enemy/m02he20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m02he20d.arc
+- name: arc/enemy/m02ls20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m02ls20.arc
+- name: arc/enemy/m02ls20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m02ls20d.arc
+- name: arc/enemy/m02pp20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m02pp20.arc
+- name: arc/enemy/m02pp20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m02pp20d.arc
+- name: arc/enemy/m02rg20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m02rg20.arc
+- name: arc/enemy/m02rg20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m02rg20d.arc
+- name: arc/enemy/m02sb00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m02sb00.arc
+- name: arc/enemy/m02sb00d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m02sb00d.arc
+- name: arc/enemy/m02sb20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m02sb20.arc
+- name: arc/enemy/m02sb20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m02sb20d.arc
+- name: arc/enemy/m02sw00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m02sw00.arc
+- name: arc/enemy/m01sb20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01sb20d.arc
+- name: arc/enemy/m01sw00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01sw00.arc
+- name: arc/enemy/m01sw20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01sw20.arc
+- name: arc/enemy/m01sw20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01sw20d.arc
+- name: arc/enemy/m01vs00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01vs00.arc
+- name: arc/enemy/m01yt20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01yt20.arc
+- name: arc/enemy/m01yt20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01yt20d.arc
+- name: arc/enemy/m02cd20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m02cd20.arc
+- name: arc/enemy/m02cd20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m02cd20d.arc
+- name: arc/enemy/m02dc20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m02dc20.arc
+- name: arc/enemy/m02dc20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m02dc20d.arc
+- name: arc/enemy/m02ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m02ex00.arc
+- name: arc/enemy/m02ex00d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m02ex00d.arc
+- name: arc/enemy/m01he20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01he20d.arc
+- name: arc/enemy/m01kg00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01kg00.arc
+- name: arc/enemy/m01kg00d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01kg00d.arc
+- name: arc/enemy/m01ls00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01ls00.arc
+- name: arc/enemy/m01ls20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01ls20.arc
+- name: arc/enemy/m01ls20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01ls20d.arc
+- name: arc/enemy/m01pp20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01pp20.arc
+- name: arc/enemy/m01pp20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01pp20d.arc
+- name: arc/enemy/m01rg20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01rg20.arc
+- name: arc/enemy/m01rg20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01rg20d.arc
+- name: arc/enemy/m01sb00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01sb00.arc
+- name: arc/enemy/m01sb00d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01sb00d.arc
+- name: arc/enemy/m01sb20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01sb20.arc
+- name: arc/boss/b99kg00.arc
+  method: copy
+  source:
+  - name: arc/boss/b99kg00.arc
+- name: arc/boss/b99kg00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b99kg00d.arc
+- name: arc/boss/b99rg00.arc
+  method: copy
+  source:
+  - name: arc/boss/b99rg00.arc
+- name: arc/boss/b99rg00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b99rg00d.arc
+- name: arc/boss/b99sw00.arc
+  method: copy
+  source:
+  - name: arc/boss/b99sw00.arc
+- name: arc/boss/b99zz00.arc
+  method: copy
+  source:
+  - name: arc/boss/b99zz00.arc
+- name: arc/enemy/m01cd00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01cd00.arc
+- name: arc/enemy/m01cd00d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01cd00d.arc
+- name: arc/enemy/m01dc20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01dc20.arc
+- name: arc/enemy/m01dc20d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01dc20d.arc
+- name: arc/enemy/m01ex00.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01ex00.arc
+- name: arc/enemy/m01ex00d.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01ex00d.arc
+- name: arc/enemy/m01he20.arc
+  method: copy
+  source:
+  - name: arc/enemy/m01he20.arc
+- name: arc/boss/b83vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b83vs00.arc
+- name: arc/boss/b84vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b84vs00.arc
+- name: arc/boss/b85vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b85vs00.arc
+- name: arc/boss/b86vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b86vs00.arc
+- name: arc/boss/b87vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b87vs00.arc
+- name: arc/boss/b88ex00.arc
+  method: copy
+  source:
+  - name: arc/boss/b88ex00.arc
+- name: arc/boss/b88ex00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b88ex00d.arc
+- name: arc/boss/b89ex00.arc
+  method: copy
+  source:
+  - name: arc/boss/b89ex00.arc
+- name: arc/boss/b89ex00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b89ex00d.arc
+- name: arc/boss/b99dc00.arc
+  method: copy
+  source:
+  - name: arc/boss/b99dc00.arc
+- name: arc/boss/b99dc00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b99dc00d.arc
+- name: arc/boss/b99he00.arc
+  method: copy
+  source:
+  - name: arc/boss/b99he00.arc
+- name: arc/boss/b99he00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b99he00d.arc
+- name: arc/boss/b71vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b71vs00.arc
+- name: arc/boss/b73vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b73vs00.arc
+- name: arc/boss/b74vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b74vs00.arc
+- name: arc/boss/b75vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b75vs00.arc
+- name: arc/boss/b76vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b76vs00.arc
+- name: arc/boss/b77vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b77vs00.arc
+- name: arc/boss/b78ex00.arc
+  method: copy
+  source:
+  - name: arc/boss/b78ex00.arc
+- name: arc/boss/b78ex00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b78ex00d.arc
+- name: arc/boss/b78vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b78vs00.arc
+- name: arc/boss/b79ex00.arc
+  method: copy
+  source:
+  - name: arc/boss/b79ex00.arc
+- name: arc/boss/b79ex00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b79ex00d.arc
+- name: arc/boss/b81vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b81vs00.arc
+- name: arc/boss/b82vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b82vs00.arc
+- name: arc/boss/b53ex00.arc
+  method: copy
+  source:
+  - name: arc/boss/b53ex00.arc
+- name: arc/boss/b53ex00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b53ex00d.arc
+- name: arc/boss/b54ex00.arc
+  method: copy
+  source:
+  - name: arc/boss/b54ex00.arc
+- name: arc/boss/b55ex00.arc
+  method: copy
+  source:
+  - name: arc/boss/b55ex00.arc
+- name: arc/boss/b55ex00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b55ex00d.arc
+- name: arc/boss/b56ex00.arc
+  method: copy
+  source:
+  - name: arc/boss/b56ex00.arc
+- name: arc/boss/b56ex00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b56ex00d.arc
+- name: arc/boss/b63ex00.arc
+  method: copy
+  source:
+  - name: arc/boss/b63ex00.arc
+- name: arc/boss/b63ex00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b63ex00d.arc
+- name: arc/boss/b68ex00.arc
+  method: copy
+  source:
+  - name: arc/boss/b68ex00.arc
+- name: arc/boss/b68ex00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b68ex00d.arc
+- name: arc/boss/b69ex00.arc
+  method: copy
+  source:
+  - name: arc/boss/b69ex00.arc
+- name: arc/boss/b69ex00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b69ex00d.arc
+- name: arc/boss/b50_02.arc
+  method: copy
+  source:
+  - name: arc/boss/b50_02.arc
+- name: arc/boss/b50_03.arc
+  method: copy
+  source:
+  - name: arc/boss/b50_03.arc
+- name: arc/boss/b50_04.arc
+  method: copy
+  source:
+  - name: arc/boss/b50_04.arc
+- name: arc/boss/b50_05.arc
+  method: copy
+  source:
+  - name: arc/boss/b50_05.arc
+- name: arc/boss/b50_06.arc
+  method: copy
+  source:
+  - name: arc/boss/b50_06.arc
+- name: arc/boss/b50_atc.arc
+  method: copy
+  source:
+  - name: arc/boss/b50_atc.arc
+- name: arc/boss/b51ex.arc
+  method: copy
+  source:
+  - name: arc/boss/b51ex.arc
+- name: arc/boss/b51ex00.arc
+  method: copy
+  source:
+  - name: arc/boss/b51ex00.arc
+- name: arc/boss/b51ex00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b51ex00d.arc
+- name: arc/boss/b51vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b51vs00.arc
+- name: arc/boss/b52ex00.arc
+  method: copy
+  source:
+  - name: arc/boss/b52ex00.arc
+- name: arc/boss/b52ex00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b52ex00d.arc
+- name: arc/boss/b52vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b52vs00.arc
+- name: arc/boss/b40ex00.arc
+  method: copy
+  source:
+  - name: arc/boss/b40ex00.arc
+- name: arc/boss/b40ex00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b40ex00d.arc
+- name: arc/boss/b40he00.arc
+  method: copy
+  source:
+  - name: arc/boss/b40he00.arc
+- name: arc/boss/b40he00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b40he00d.arc
+- name: arc/boss/b40vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b40vs00.arc
+- name: arc/boss/b41ex00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b41ex00d.arc
+- name: arc/boss/b41vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b41vs00.arc
+- name: arc/boss/b50ex.arc
+  method: copy
+  source:
+  - name: arc/boss/b50ex.arc
+- name: arc/boss/b50ex00.arc
+  method: copy
+  source:
+  - name: arc/boss/b50ex00.arc
+- name: arc/boss/b50ex00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b50ex00d.arc
+- name: arc/boss/b50vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b50vs00.arc
+- name: arc/boss/b50_00.arc
+  method: copy
+  source:
+  - name: arc/boss/b50_00.arc
+- name: arc/boss/b50_01.arc
+  method: copy
+  source:
+  - name: arc/boss/b50_01.arc
+- name: arc/boss/b20ls00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b20ls00d.arc
+- name: arc/boss/b20pp00.arc
+  method: copy
+  source:
+  - name: arc/boss/b20pp00.arc
+- name: arc/boss/b20pp00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b20pp00d.arc
+- name: arc/boss/b21he00.arc
+  method: copy
+  source:
+  - name: arc/boss/b21he00.arc
+- name: arc/boss/b21ls00.arc
+  method: copy
+  source:
+  - name: arc/boss/b21ls00.arc
+- name: arc/boss/b22ls00.arc
+  method: copy
+  source:
+  - name: arc/boss/b22ls00.arc
+- name: arc/boss/b23ls00.arc
+  method: copy
+  source:
+  - name: arc/boss/b23ls00.arc
+- name: arc/boss/b30ex.arc
+  method: copy
+  source:
+  - name: arc/boss/b30ex.arc
+- name: arc/boss/b30ex00.arc
+  method: copy
+  source:
+  - name: arc/boss/b30ex00.arc
+- name: arc/boss/b30he00.arc
+  method: copy
+  source:
+  - name: arc/boss/b30he00.arc
+- name: arc/boss/b30he00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b30he00d.arc
+- name: arc/boss/b31ex00.arc
+  method: copy
+  source:
+  - name: arc/boss/b31ex00.arc
+- name: arc/boss/b32ex00.arc
+  method: copy
+  source:
+  - name: arc/boss/b32ex00.arc
+- name: arc/boss/b12vs00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b12vs00d.arc
+- name: arc/boss/b12vs00d2.arc
+  method: copy
+  source:
+  - name: arc/boss/b12vs00d2.arc
+- name: arc/boss/b13vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b13vs00.arc
+- name: arc/boss/b13vs00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b13vs00d.arc
+- name: arc/boss/b13vs00d2.arc
+  method: copy
+  source:
+  - name: arc/boss/b13vs00d2.arc
+- name: arc/boss/b14vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b14vs00.arc
+- name: arc/boss/b20cd00.arc
+  method: copy
+  source:
+  - name: arc/boss/b20cd00.arc
+- name: arc/boss/b20cd00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b20cd00d.arc
+- name: arc/boss/b20dc00.arc
+  method: copy
+  source:
+  - name: arc/boss/b20dc00.arc
+- name: arc/boss/b20ex00.arc
+  method: copy
+  source:
+  - name: arc/boss/b20ex00.arc
+- name: arc/boss/b20ex00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b20ex00d.arc
+- name: arc/boss/b20he00.arc
+  method: copy
+  source:
+  - name: arc/boss/b20he00.arc
+- name: arc/boss/b20ls00.arc
+  method: copy
+  source:
+  - name: arc/boss/b20ls00.arc
+- name: arc/boss/b11sw00.arc
+  method: copy
+  source:
+  - name: arc/boss/b11sw00.arc
+- name: arc/boss/b11sw00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b11sw00d.arc
+- name: arc/boss/b11vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b11vs00.arc
+- name: arc/boss/b11vs00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b11vs00d.arc
+- name: arc/boss/b11vs00d2.arc
+  method: copy
+  source:
+  - name: arc/boss/b11vs00d2.arc
+- name: arc/boss/b12ex00.arc
+  method: copy
+  source:
+  - name: arc/boss/b12ex00.arc
+- name: arc/boss/b12ex00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b12ex00d.arc
+- name: arc/boss/b12ex01.arc
+  method: copy
+  source:
+  - name: arc/boss/b12ex01.arc
+- name: arc/boss/b12jb00.arc
+  method: copy
+  source:
+  - name: arc/boss/b12jb00.arc
+- name: arc/boss/b12jb00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b12jb00d.arc
+- name: arc/boss/b12sb00.arc
+  method: copy
+  source:
+  - name: arc/boss/b12sb00.arc
+- name: arc/boss/b12sb00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b12sb00d.arc
+- name: arc/boss/b12vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b12vs00.arc
+- name: arc/boss/b10ls00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b10ls00d.arc
+- name: arc/boss/b10sb00.arc
+  method: copy
+  source:
+  - name: arc/boss/b10sb00.arc
+- name: arc/boss/b10sb00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b10sb00d.arc
+- name: arc/boss/b10sw00.arc
+  method: copy
+  source:
+  - name: arc/boss/b10sw00.arc
+- name: arc/boss/b10sw00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b10sw00d.arc
+- name: arc/boss/b10vs.arc
+  method: copy
+  source:
+  - name: arc/boss/b10vs.arc
+- name: arc/boss/b10vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b10vs00.arc
+- name: arc/boss/b10vs00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b10vs00d.arc
+- name: arc/boss/b10vs00d2.arc
+  method: copy
+  source:
+  - name: arc/boss/b10vs00d2.arc
+- name: arc/boss/b11ex00.arc
+  method: copy
+  source:
+  - name: arc/boss/b11ex00.arc
+- name: arc/boss/b11ex00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b11ex00d.arc
+- name: arc/boss/b11sb00.arc
+  method: copy
+  source:
+  - name: arc/boss/b11sb00.arc
+- name: arc/boss/b11sb00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b11sb00d.arc
+- name: arc/boss/b08rg00.arc
+  method: copy
+  source:
+  - name: arc/boss/b08rg00.arc
+- name: arc/boss/b08rg00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b08rg00d.arc
+- name: arc/boss/b10cd00.arc
+  method: copy
+  source:
+  - name: arc/boss/b10cd00.arc
+- name: arc/boss/b10cd00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b10cd00d.arc
+- name: arc/boss/b10dc00.arc
+  method: copy
+  source:
+  - name: arc/boss/b10dc00.arc
+- name: arc/boss/b10ex00.arc
+  method: copy
+  source:
+  - name: arc/boss/b10ex00.arc
+- name: arc/boss/b10ex00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b10ex00d.arc
+- name: arc/boss/b10ex01.arc
+  method: copy
+  source:
+  - name: arc/boss/b10ex01.arc
+- name: arc/boss/b10ex02.arc
+  method: copy
+  source:
+  - name: arc/boss/b10ex02.arc
+- name: arc/boss/b10he00.arc
+  method: copy
+  source:
+  - name: arc/boss/b10he00.arc
+- name: arc/boss/b10he00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b10he00d.arc
+- name: arc/boss/b10jb.arc
+  method: copy
+  source:
+  - name: arc/boss/b10jb.arc
+- name: arc/boss/b10ls00.arc
+  method: copy
+  source:
+  - name: arc/boss/b10ls00.arc
+- name: arc/boss/b05cd00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b05cd00d.arc
+- name: arc/boss/b05jb00.arc
+  method: copy
+  source:
+  - name: arc/boss/b05jb00.arc
+- name: arc/boss/b05jb00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b05jb00d.arc
+- name: arc/boss/b05rg00.arc
+  method: copy
+  source:
+  - name: arc/boss/b05rg00.arc
+- name: arc/boss/b05rg00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b05rg00d.arc
+- name: arc/boss/b06jb00.arc
+  method: copy
+  source:
+  - name: arc/boss/b06jb00.arc
+- name: arc/boss/b06jb00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b06jb00d.arc
+- name: arc/boss/b06rg00.arc
+  method: copy
+  source:
+  - name: arc/boss/b06rg00.arc
+- name: arc/boss/b06rg00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b06rg00d.arc
+- name: arc/boss/b07jb00.arc
+  method: copy
+  source:
+  - name: arc/boss/b07jb00.arc
+- name: arc/boss/b07jb00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b07jb00d.arc
+- name: arc/boss/b07rg00.arc
+  method: copy
+  source:
+  - name: arc/boss/b07rg00.arc
+- name: arc/boss/b07rg00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b07rg00d.arc
+- name: arc/boss/b03rg00.arc
+  method: copy
+  source:
+  - name: arc/boss/b03rg00.arc
+- name: arc/boss/b03rg00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b03rg00d.arc
+- name: arc/boss/b03sb00.arc
+  method: copy
+  source:
+  - name: arc/boss/b03sb00.arc
+- name: arc/boss/b03sb00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b03sb00d.arc
+- name: arc/boss/b03sw00.arc
+  method: copy
+  source:
+  - name: arc/boss/b03sw00.arc
+- name: arc/boss/b03vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b03vs00.arc
+- name: arc/boss/b04cd00.arc
+  method: copy
+  source:
+  - name: arc/boss/b04cd00.arc
+- name: arc/boss/b04cd00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b04cd00d.arc
+- name: arc/boss/b04jb.arc
+  method: copy
+  source:
+  - name: arc/boss/b04jb.arc
+- name: arc/boss/b04jb00.arc
+  method: copy
+  source:
+  - name: arc/boss/b04jb00.arc
+- name: arc/boss/b04rg00.arc
+  method: copy
+  source:
+  - name: arc/boss/b04rg00.arc
+- name: arc/boss/b04rg00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b04rg00d.arc
+- name: arc/boss/b05cd00.arc
+  method: copy
+  source:
+  - name: arc/boss/b05cd00.arc
+- name: arc/boss/b02ls00.arc
+  method: copy
+  source:
+  - name: arc/boss/b02ls00.arc
+- name: arc/boss/b02ls00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b02ls00d.arc
+- name: arc/boss/b02pp00.arc
+  method: copy
+  source:
+  - name: arc/boss/b02pp00.arc
+- name: arc/boss/b02pp00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b02pp00d.arc
+- name: arc/boss/b02rg00.arc
+  method: copy
+  source:
+  - name: arc/boss/b02rg00.arc
+- name: arc/boss/b02rg00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b02rg00d.arc
+- name: arc/boss/b02sw00.arc
+  method: copy
+  source:
+  - name: arc/boss/b02sw00.arc
+- name: arc/boss/b02vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b02vs00.arc
+- name: arc/boss/b03cd00.arc
+  method: copy
+  source:
+  - name: arc/boss/b03cd00.arc
+- name: arc/boss/b03cd00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b03cd00d.arc
+- name: arc/boss/b03dc00.arc
+  method: copy
+  source:
+  - name: arc/boss/b03dc00.arc
+- name: arc/boss/b03jb00.arc
+  method: copy
+  source:
+  - name: arc/boss/b03jb00.arc
+- name: arc/boss/b03jb00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b03jb00d.arc
+- name: arc/boss/b01sb00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b01sb00d.arc
+- name: arc/boss/b01sw00.arc
+  method: copy
+  source:
+  - name: arc/boss/b01sw00.arc
+- name: arc/boss/b01sw00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b01sw00d.arc
+- name: arc/boss/b01vs00.arc
+  method: copy
+  source:
+  - name: arc/boss/b01vs00.arc
+- name: arc/boss/b01vs00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b01vs00d.arc
+- name: arc/boss/b01vs00d2.arc
+  method: copy
+  source:
+  - name: arc/boss/b01vs00d2.arc
+- name: arc/boss/b02cd00.arc
+  method: copy
+  source:
+  - name: arc/boss/b02cd00.arc
+- name: arc/boss/b02cd00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b02cd00d.arc
+- name: arc/boss/b02dc.arc
+  method: copy
+  source:
+  - name: arc/boss/b02dc.arc
+- name: arc/boss/b02dc00.arc
+  method: copy
+  source:
+  - name: arc/boss/b02dc00.arc
+- name: arc/boss/b02ex00.arc
+  method: copy
+  source:
+  - name: arc/boss/b02ex00.arc
+- name: arc/boss/b02jb00.arc
+  method: copy
+  source:
+  - name: arc/boss/b02jb00.arc
+- name: arc/boss/b02jb00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b02jb00d.arc
+- name: arc/boss/b01ex_04.arc
+  method: copy
+  source:
+  - name: arc/boss/b01ex_04.arc
+- name: arc/boss/b01he00.arc
+  method: copy
+  source:
+  - name: arc/boss/b01he00.arc
+- name: arc/boss/b01he00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b01he00d.arc
+- name: arc/boss/b01jb00.arc
+  method: copy
+  source:
+  - name: arc/boss/b01jb00.arc
+- name: arc/boss/b01jb00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b01jb00d.arc
+- name: arc/boss/b01ls00.arc
+  method: copy
+  source:
+  - name: arc/boss/b01ls00.arc
+- name: arc/boss/b01ls00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b01ls00d.arc
+- name: arc/boss/b01pp00.arc
+  method: copy
+  source:
+  - name: arc/boss/b01pp00.arc
+- name: arc/boss/b01pp00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b01pp00d.arc
+- name: arc/boss/b01rg.arc
+  method: copy
+  source:
+  - name: arc/boss/b01rg.arc
+- name: arc/boss/b01rg00.arc
+  method: copy
+  source:
+  - name: arc/boss/b01rg00.arc
+- name: arc/boss/b01rg00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b01rg00d.arc
+- name: arc/boss/b01sb00.arc
+  method: copy
+  source:
+  - name: arc/boss/b01sb00.arc
+- name: lua/m03sb20.lub
+  method: copy
+  source:
+  - name: lua/m03sb20.lub
+- name: lua/m03sw20.lub
+  method: copy
+  source:
+  - name: lua/m03sw20.lub
+- name: lua/m03yt20.lub
+  method: copy
+  source:
+  - name: lua/m03yt20.lub
+- name: lua/TXehanort99.lub
+  method: copy
+  source:
+  - name: lua/TXehanort99.lub
+- name: arc/boss/b01cd00.arc
+  method: copy
+  source:
+  - name: arc/boss/b01cd00.arc
+- name: arc/boss/b01cd00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b01cd00d.arc
+- name: arc/boss/b01dc00.arc
+  method: copy
+  source:
+  - name: arc/boss/b01dc00.arc
+- name: arc/boss/b01ex00.arc
+  method: copy
+  source:
+  - name: arc/boss/b01ex00.arc
+- name: arc/boss/b01ex00d.arc
+  method: copy
+  source:
+  - name: arc/boss/b01ex00d.arc
+- name: arc/boss/b01ex_00.arc
+  method: copy
+  source:
+  - name: arc/boss/b01ex_00.arc
+- name: arc/boss/b01ex_01.arc
+  method: copy
+  source:
+  - name: arc/boss/b01ex_01.arc
+- name: arc/boss/b01ex_02.arc
+  method: copy
+  source:
+  - name: arc/boss/b01ex_02.arc
+- name: arc/boss/b01ex_03.arc
+  method: copy
+  source:
+  - name: arc/boss/b01ex_03.arc
+- name: lua/m02he20.lub
+  method: copy
+  source:
+  - name: lua/m02he20.lub
+- name: lua/m02ls20.lub
+  method: copy
+  source:
+  - name: lua/m02ls20.lub
+- name: lua/m02pp20.lub
+  method: copy
+  source:
+  - name: lua/m02pp20.lub
+- name: lua/m02rg20.lub
+  method: copy
+  source:
+  - name: lua/m02rg20.lub
+- name: lua/m02sb20.lub
+  method: copy
+  source:
+  - name: lua/m02sb20.lub
+- name: lua/m02sw20.lub
+  method: copy
+  source:
+  - name: lua/m02sw20.lub
+- name: lua/m02yt20.lub
+  method: copy
+  source:
+  - name: lua/m02yt20.lub
+- name: lua/m03cd20.lub
+  method: copy
+  source:
+  - name: lua/m03cd20.lub
+- name: lua/m03dc20.lub
+  method: copy
+  source:
+  - name: lua/m03dc20.lub
+- name: lua/m03he20.lub
+  method: copy
+  source:
+  - name: lua/m03he20.lub
+- name: lua/m03ls20.lub
+  method: copy
+  source:
+  - name: lua/m03ls20.lub
+- name: lua/m03pp20.lub
+  method: copy
+  source:
+  - name: lua/m03pp20.lub
+- name: lua/m03rg20.lub
+  method: copy
+  source:
+  - name: lua/m03rg20.lub
+- name: lua/g99kg00.lub
+  method: copy
+  source:
+  - name: lua/g99kg00.lub
+- name: lua/m01cd00.lub
+  method: copy
+  source:
+  - name: lua/m01cd00.lub
+- name: lua/m01dc20.lub
+  method: copy
+  source:
+  - name: lua/m01dc20.lub
+- name: lua/m01he20.lub
+  method: copy
+  source:
+  - name: lua/m01he20.lub
+- name: lua/m01kg00.lub
+  method: copy
+  source:
+  - name: lua/m01kg00.lub
+- name: lua/m01ls20.lub
+  method: copy
+  source:
+  - name: lua/m01ls20.lub
+- name: lua/m01pp20.lub
+  method: copy
+  source:
+  - name: lua/m01pp20.lub
+- name: lua/m01rg20.lub
+  method: copy
+  source:
+  - name: lua/m01rg20.lub
+- name: lua/m01sb20.lub
+  method: copy
+  source:
+  - name: lua/m01sb20.lub
+- name: lua/m01sw20.lub
+  method: copy
+  source:
+  - name: lua/m01sw20.lub
+- name: lua/m01yt20.lub
+  method: copy
+  source:
+  - name: lua/m01yt20.lub
+- name: lua/m02cd20.lub
+  method: copy
+  source:
+  - name: lua/m02cd20.lub
+- name: lua/m02dc20.lub
+  method: copy
+  source:
+  - name: lua/m02dc20.lub
+- name: lua/b03jb00.lub
+  method: copy
+  source:
+  - name: lua/b03jb00.lub
+- name: lua/b04jb00.lub
+  method: copy
+  source:
+  - name: lua/b04jb00.lub
+- name: lua/b05jb00.lub
+  method: copy
+  source:
+  - name: lua/b05jb00.lub
+- name: lua/b06jb00.lub
+  method: copy
+  source:
+  - name: lua/b06jb00.lub
+- name: lua/b07jb00.lub
+  method: copy
+  source:
+  - name: lua/b07jb00.lub
+- name: lua/b12ex00.lub
+  method: copy
+  source:
+  - name: lua/b12ex00.lub
+- name: lua/b60jb.lub
+  method: copy
+  source:
+  - name: lua/b60jb.lub
+- name: lua/b99dc00.lub
+  method: copy
+  source:
+  - name: lua/b99dc00.lub
+- name: lua/b99he00.lub
+  method: copy
+  source:
+  - name: lua/b99he00.lub
+- name: lua/b99kg00.lub
+  method: copy
+  source:
+  - name: lua/b99kg00.lub
+- name: lua/b99rg00.lub
+  method: copy
+  source:
+  - name: lua/b99rg00.lub
+- name: lua/b99sw00.lub
+  method: copy
+  source:
+  - name: lua/b99sw00.lub
+- name: lua/g90kg00.lub
+  method: copy
+  source:
+  - name: lua/g90kg00.lub
+- name: Item/PrizeBoxData.bin
+  method: copy
+  source:
+  - name: Item/PrizeBoxData.bin
+- name: lua/b01ex00.lub
+  method: copy
+  source:
+  - name: lua/b01ex00.lub
+- name: lua/b01jb00.lub
+  method: copy
+  source:
+  - name: lua/b01jb00.lub
